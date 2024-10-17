@@ -15,8 +15,8 @@ To use this script, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/username/repository_name.git
-    cd repository_name
+    git clone https://github.com/redHood08-t/YOLO-Absolute-Segmentation.git
+    cd YOLO-Absolute-Segmentation
     ```
 
 2. Install the required dependencies:
