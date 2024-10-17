@@ -15,7 +15,7 @@ To use this script, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/username/YOLO-to-DB-Converter.git
+    git clone https://github.com/redHood08-t/YOLO-to-DB-Converter.git
     cd YOLO-to-DB-Converter
     ```
 
